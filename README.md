@@ -15,6 +15,7 @@
           "Spring Data MongoDB",
           "JPA/Hibernate",
           "QueryDSL/MyBatis",
+          "MyBatis",
           "Spring Security",
           "OpenFeign",
           "JUnit",
@@ -165,7 +166,6 @@
   "contact": {
     "email": "dokeycho@gmail.com",
     "github": "https://github.com/Sniij"
-  },
-  "funFact": "아재개그 조아해요."
+  }
 }
 ```
