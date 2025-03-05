@@ -14,7 +14,7 @@
           "Spring Data JPA",
           "Spring Data MongoDB",
           "JPA/Hibernate",
-          "QueryDSL/MyBatis",
+          "QueryDSL",
           "MyBatis",
           "Spring Security",
           "OpenFeign",
